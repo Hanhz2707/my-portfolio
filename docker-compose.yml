@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  portfolio:
+    image: bacuaban77/portfolio-generator:latest
+    ports:
+      - "${PORT:-3000}:3000"
+    volumes:
+      - ./config:/app/config
+    environment:
+      - GITHUB_TOKEN=${GITHUB_TOKEN:-}
+      - SYNC_INTERVAL_DAYS=${SYNC_INTERVAL_DAYS:-7}
+      - PORTFOLIO_STYLE=${PORTFOLIO_STYLE:-default}
+      - THEME=${THEME:-light}
+      - PORT=${PORT:-3000}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
