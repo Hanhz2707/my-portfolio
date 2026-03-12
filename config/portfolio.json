@@ -1,62 +1,70 @@
 {
-  "name": "Long Le",
-  "title": "Full Stack Engineer",
-  "shortBio": "Building scalable solutions at the intersection of technology and innovation",
-  "motto": "Code with purpose, build with passion",
-  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor velit lacus, ut commodo lectus aliquam tempor. Fusce commodo venenatis dui, in dictum augue pretium a. Quisque nec aliquam lacus. Aenean semper efficitur justo nec posuere. Donec mollis ex at nisl luctus, at mattis dolor sagittis. Integer rhoncus nibh est. Nam et nulla sed justo vehicula viverra non sit amet nisi. Curabitur finibus velit id ligula sodales, ut hendrerit risus auctor. Fusce sagittis pellentesque interdum. Nam quis felis ligula. Ut nec nibh a eros suscipit faucibus. Sed tincidunt nunc nibh, vel finibus mauris vestibulum non. Phasellus tincidunt egestas sollicitudin. Nam et imperdiet libero.",
+  "name": "Dang Hong Ngoc",
+  "title": "Marketing Executive",
+  "shortBio": "One-line professional tagline or elevator pitch",
+  "motto": "Your personal motto or favorite quote",
+  "bio": "Brief description about yourself and what you do. Keep it concise and engaging.",
   "email": "your.email@example.com",
-  "githubUsername": "BaCuaBan77",
-  "domains": [
-    "IoT",
-    "Healthcare",
-    "Defense"
-  ],
+  "githubUsername": "your-github-username",
+  "domains": ["FinTech", "Healthcare", "E-commerce"],
   "skills": [
-    { "category": "Languages", "items": ["TypeScript", "JavaScript"] },
-    { "category": "Frameworks", "items": ["React", "Next.js", "Node.js"] },
-    { "category": "Cloud / DevOps", "items": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"] },
-    { "category": "Engineering", "items": ["System Design", "Architecture", "Requirements Engineering"] },
-    { "category": "Management", "items": ["Agile", "Scrum"] }
+    {
+      "category": "Languages",
+      "items": ["TypeScript", "JavaScript", "Python", "Go"]
+    },
+    {
+      "category": "Frameworks",
+      "items": ["React", "Next.js", "Node.js", "Express"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Docker", "Kubernetes", "AWS", "GitHub Actions"]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "MongoDB", "Redis"]
+    }
   ],
   "experience": [
     {
-      "company": "Company Name",
-      "position": "Position Title",
-      "startDate": "Jan 2020",
+      "company": "Current Company",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01",
       "endDate": "Present",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor velit lacus, ut commodo lectus aliquam tempor. Fusce commodo venenatis dui, in dictum augue pretium a. Quisque nec aliquam lacus. Aenean semper efficitur justo nec posuere. Donec mollis ex at nisl luctus, at mattis dolor sagittis. Integer rhoncus nibh est. Nam et nulla sed justo vehicula viverra non sit amet nisi. Curabitur finibus velit id ligula sodales, ut hendrerit risus auctor. Fusce sagittis pellentesque interdum. Nam quis felis ligula. Ut nec nibh a eros suscipit faucibus. Sed tincidunt nunc nibh, vel finibus mauris vestibulum non. Phasellus tincidunt egestas sollicitudin. Nam et imperdiet libero.",
-      "achievements": ["Achievement 1", "Achievement 2"]
+      "description": "Lead development of scalable microservices architecture serving millions of users.",
+      "achievements": [
+        "Reduced deployment time by 70% through CI/CD automation",
+        "Architected and deployed cloud infrastructure serving 1M+ users",
+        "Mentored team of 5 junior developers"
+      ]
     },
     {
-      "company": "Company Name",
-      "position": "Position Title",
-      "startDate": "Jan 2019",
-      "endDate": "Jan 2020",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor velit lacus, ut commodo lectus aliquam tempor. Fusce commodo venenatis dui, in dictum augue pretium a. Quisque nec aliquam lacus. Aenean semper efficitur justo nec posuere. Donec mollis ex at nisl luctus, at mattis dolor sagittis. Integer rhoncus nibh est. Nam et nulla sed justo vehicula viverra non sit amet nisi. Curabitur finibus velit id ligula sodales, ut hendrerit risus auctor. Fusce sagittis pellentesque interdum. Nam quis felis ligula. Ut nec nibh a eros suscipit faucibus. Sed tincidunt nunc nibh, vel finibus mauris vestibulum non. Phasellus tincidunt egestas sollicitudin. Nam et imperdiet libero.",
-      "achievements": ["Achievement 1", "Achievement 2"]
-    },
-    {
-      "company": "Company Name",
-      "position": "Position Title",
-      "startDate": "Jan 2018",
-      "endDate": "Jan 2019",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor velit lacus, ut commodo lectus aliquam tempor. Fusce commodo venenatis dui, in dictum augue pretium a. Quisque nec aliquam lacus. Aenean semper efficitur justo nec posuere. Donec mollis ex at nisl luctus, at mattis dolor sagittis. Integer rhoncus nibh est. Nam et nulla sed justo vehicula viverra non sit amet nisi. Curabitur finibus velit id ligula sodales, ut hendrerit risus auctor. Fusce sagittis pellentesque interdum. Nam quis felis ligula. Ut nec nibh a eros suscipit faucibus. Sed tincidunt nunc nibh, vel finibus mauris vestibulum non. Phasellus tincidunt egestas sollicitudin. Nam et imperdiet libero.",
-      "achievements": ["Achievement 1", "Achievement 2"]
+      "company": "Previous Company",
+      "position": "Software Engineer",
+      "startDate": "2018-06",
+      "endDate": "2019-12",
+      "description": "Developed and maintained web applications using React and Node.js.",
+      "achievements": [
+        "Built real-time dashboard processing 10K+ events/second",
+        "Improved API response time by 40%"
+      ]
     }
   ],
   "socialLinks": {
-    "linkedin": "https://www.linkedin.com/in/long-le-5b518a169/"
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "twitter": "https://twitter.com/yourhandle",
+    "website": "https://yourwebsite.com"
   },
   "certifications": [
     {
-      "name": "AWS Certified Solutions Architect - Associate",
-      "description": "Validated expertise in designing distributed systems on AWS",
+      "name": "AWS Certified Solutions Architect",
+      "description": "Professional certification in cloud architecture and AWS services",
       "url": "https://aws.amazon.com/certification/"
     },
     {
-      "name": "Google Cloud Professional Cloud Architect",
-      "description": "Expert-level certification in designing and managing cloud solutions",
-      "url": "https://cloud.google.com/certification/cloud-architect"
+      "name": "Google Cloud Professional Developer",
+      "description": "Expert-level certification in Google Cloud Platform development",
+      "url": "https://cloud.google.com/certification"
     }
   ],
   "education": [
@@ -74,4 +82,3 @@
     }
   ]
 }
-
