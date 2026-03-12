@@ -1,59 +1,74 @@
 {
   "name": "Dang Hong Ngoc",
   "title": "Marketing Executive",
-  "shortBio": "One-line professional tagline or elevator pitch",
+  "shortBio": "A dedicated and enthusiastic Marketing Executive",
   "motto": "Your personal motto or favorite quote",
-  "bio": "Brief description about yourself and what you do. Keep it concise and engaging.",
-  "email": "your.email@example.com",
+  "bio": "Marketing professional with hands-on experience in content strategy, SEO, social media, and community building across Bao Loc Group, GoChinese, and SiciX Technology. Passionate about combining strategic thinking and execution to drive meaningful business impact.",
+  "email": "danghongngoc3548@gmail.com",
   "githubUsername": "your-github-username",
-  "domains": ["FinTech", "Healthcare", "E-commerce"],
+  "domains": ["Marketing", "Business Development"],
   "skills": [
     {
       "category": "Languages",
-      "items": ["TypeScript", "JavaScript", "Python", "Go"]
+      "items": ["6.5 IELTS"]
     },
     {
-      "category": "Frameworks",
-      "items": ["React", "Next.js", "Node.js", "Express"]
+      "category": "Technical",
+      "items": [
+        "Mircosoft Word",
+        "Mircosoft Excel",
+        "Mircosoft Powerpoint",
+        "Outlook"
+      ]
     },
     {
-      "category": "Tools",
-      "items": ["Docker", "Kubernetes", "AWS", "GitHub Actions"]
+      "category": "Marketing",
+      "items": [
+        "Content Marketing",
+        "SEO",
+        "Copywriting",
+        "Design",
+        "Content Strategy"
+      ]
     },
     {
-      "category": "Databases",
-      "items": ["PostgreSQL", "MongoDB", "Redis"]
+      "category": "Soft",
+      "items": [
+        "Strategic problem-solving skills",
+        "Critical thinking",
+        "Adaptable mindset",
+        "Proactive communication",
+        "Time management",
+        "Pitching"
+      ]
     }
   ],
   "experience": [
     {
-      "company": "Current Company",
-      "position": "Senior Software Engineer",
-      "startDate": "2020-01",
+      "company": "Công Ty TNHH Đức Minh Đồng Nai",
+      "position": "Content Creative",
+      "startDate": "03-2026",
       "endDate": "Present",
-      "description": "Lead development of scalable microservices architecture serving millions of users.",
-      "achievements": [
-        "Reduced deployment time by 70% through CI/CD automation",
-        "Architected and deployed cloud infrastructure serving 1M+ users",
-        "Mentored team of 5 junior developers"
-      ]
+      "description": "TODO: Làm gì đó phải hỏi lại Ngọc",
+      "achievements": ["TODO: update sau"]
     },
     {
-      "company": "Previous Company",
-      "position": "Software Engineer",
-      "startDate": "2018-06",
-      "endDate": "2019-12",
-      "description": "Developed and maintained web applications using React and Node.js.",
+      "company": "Sicix Technology Joint Stock Company",
+      "position": "Marketing Executive",
+      "startDate": "03-2025",
+      "endDate": "03-2026",
+      "description": "TODO: làm gì đó",
       "achievements": [
-        "Built real-time dashboard processing 10K+ events/second",
-        "Improved API response time by 40%"
+        "Planned and optimized communication strategies for SiciX's Life, increasing traffic by 3.4%, reaching 38.1K page views month-over-month",
+        "Launched and managed the '1 Minute Logout' content series, delivering synchronized communication across internal platforms, SiciX's Life page, and the company website",
+        "Applied SEO techniques to optimize articles and keyword performance"
       ]
     }
   ],
   "socialLinks": {
-    "linkedin": "https://linkedin.com/in/yourprofile",
-    "twitter": "https://twitter.com/yourhandle",
-    "website": "https://yourwebsite.com"
+    "linkedin": "https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-h%E1%BB%93ng-ng%E1%BB%8Dc-34ab23316/",
+    "facebook": "https://www.facebook.com/anghongngoc.826221",
+    "website": "https://danghongngoc.com/"
   },
   "certifications": [
     {
@@ -69,16 +84,10 @@
   ],
   "education": [
     {
-      "school": "University Name",
-      "degree": "Bachelor of Science in Computer Science",
-      "startDate": "2014-09",
-      "endDate": "2018-06"
-    },
-    {
-      "school": "Online Platform",
-      "degree": "Full Stack Web Development Bootcamp",
-      "startDate": "2019-01",
-      "endDate": "2019-06"
+      "school": "Diplomatic Academy of Vietnam",
+      "degree": "Bachelor of English Linguistic",
+      "startDate": "10-2021",
+      "endDate": "08-2025"
     }
   ]
 }

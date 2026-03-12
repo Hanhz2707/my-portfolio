@@ -1,9 +1,9 @@
 [
   {
-    "id": "unique-project-id",
-    "name": "Project Name",
-    "description": "Brief one-line description of the project",
-    "abstract": "Detailed project description. Explain the problem, your solution, and the impact. This appears in the project modal.",
+    "id": "Grow with Unity 2025",
+    "name": "Grow with Unity 2025",
+    "description": "Coordinated end-to-end execution for Growth with Unity 2025, managing guest invitations and serving as the key liaison between Niksen and Unity event teams at L7 Hotel Hanoi",
+    "abstract": "Working as a Event Coordinator for the project",
     "category": "professional",
     "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS"],
     "githubUrl": "https://github.com/company/project",
@@ -12,13 +12,15 @@
     "featured": true
   },
   {
-    "id": "another-professional-project",
-    "name": "Enterprise Dashboard",
-    "description": "Real-time analytics dashboard for enterprise clients",
-    "abstract": "Built a comprehensive analytics dashboard that processes over 100K events per second. Implemented real-time data visualization, custom alerting system, and role-based access control. Reduced time-to-insight by 60% for clients.",
+    "id": "Grow with Unity 2024",
+    "name": "Grow with Unity 2024",
+    "description": "Coordinated end-to-end execution for Growth with Unity 2025, managing guest invitations and serving as the key liaison between Niksen and Unity event teams at L7 Hotel Hanoi",
+    "abstract": "Working as a Event Coordinator for the project",
     "category": "professional",
-    "technologies": ["Vue.js", "Python", "FastAPI", "Redis", "Docker"],
-    "liveUrl": "https://dashboard.example.com",
-    "image": "https://example.com/dashboard-screenshot.png"
+    "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS"],
+    "githubUrl": "https://github.com/company/project",
+    "liveUrl": "https://project-demo.com",
+    "image": "project-screenshot.png",
+    "featured": true
   }
 ]
